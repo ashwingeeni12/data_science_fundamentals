@@ -1,4 +1,4 @@
-Occupation,Sleep_Hours,Physical_Activity ,Caffeine_Intake ,Alcohol_Consumption ,Stress_Level ,Heart_Rate,Breathing_Rate,Sweating_Level,Therapy_Sessions,Diet_Quality ,Severity_of_Anxiety_Attack
+Occupation,Sleep_Hours,Physical_Activity,Caffeine_Intake,Alcohol_Consumption,Stress_Level,Heart_Rate,Breathing_Rate,Sweating_Level,Therapy_Sessions,Diet_Quality,Severity_of_Anxiety_Attack
 Other,9.6,8.3,175,6,4,145,33,3,4,9,10
 Teacher,6.4,7.3,97,6,3,143,18,5,0,9,8
 Doctor,6.9,1,467,14,2,60,34,1,7,10,5
